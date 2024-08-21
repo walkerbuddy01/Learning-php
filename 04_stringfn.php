@@ -1,4 +1,5 @@
 <?php
+
 $name = "Karan Sharma";
 echo $name;
 //strLen - gives the length of the string
